@@ -48,6 +48,12 @@ $ ./f-mailer.sh
 # Termux
 $ bash f-mailer.sh
 ```
+### screenshot 1
+
+ ![screenshot](Screenshot_20220506-180715_Termux.png)
+
+### screenshot 2
+ ![screenshot](Screenshot_20220506-180609_Termux.png)
 ### Find Me on :
 
 <p align="left">
