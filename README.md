@@ -48,3 +48,15 @@ $ ./f-mailer.sh
 # Termux
 $ bash f-mailer.sh
 ```
+### Find Me on :
+
+<p align="left">
+
+<a href="https://github.com/Kamanati/f-mailer" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+
+<a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
+
+<a href="https://chat.whatsapp.com/Iz7ZtwNIWMAFv6Q6hS317M" target="_blank"><img src="https://img.shields.io/badge/Chat-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+
+
+</p>
